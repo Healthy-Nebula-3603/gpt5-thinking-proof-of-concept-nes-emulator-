@@ -11,7 +11,7 @@ Only works partically with a Soccer for a NES.
 
 
 
-Requies installed SDL
+Requies installed SDL and LINUX enviroement. 
 
 
 - Build: make
