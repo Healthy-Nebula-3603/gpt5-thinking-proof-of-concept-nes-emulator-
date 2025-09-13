@@ -1,3 +1,29 @@
+That is just a proof of concept.
+
+A NES emulator in pure C make by GPT5 thinkiing hing with codex in 40 minutes.
+
+Only works partically with a Soccer for a NES.
+
+
+<img width="1403" height="1089" alt="Screenshot 2025-09-13 002928" src="https://github.com/user-attachments/assets/5433cf70-1cb3-4201-8b15-64d5e2b8f86f" />
+<img width="1438" height="1094" alt="Screenshot 2025-09-13 000139" src="https://github.com/user-attachments/assets/93340f53-6633-4787-b664-c6c572329513" />
+<img width="1375" height="1105" alt="Screenshot 2025-09-12 235215" src="https://github.com/user-attachments/assets/dd95583f-bcb3-4632-8c9b-4e3c70daa1f6" />
+
+
+
+Requies installed SDL
+
+
+- Build: make
+- Run: ./nes_emu Soccer.nes --sdl
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
 NES Emulator (Simple, NROM-only)
 
 Overview
