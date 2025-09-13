@@ -1,6 +1,6 @@
 That is just a proof of concept.
 
-A NES emulator in pure C make by GPT5 thinkiing hing with codex in 40 minutes.
+A NES emulator in pure C make by GPT5 thinkiing with a codex-cli in 40 minutes.
 
 Only works partically with a Soccer for a NES.
 
